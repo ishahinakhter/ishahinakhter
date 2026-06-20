@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 💞️ Looking to collaborate on **WordPress Websites**, **SaaS Tools** & **Niche Web Projects**.
 
-📫 Reach me at **[arfico.com/contact](https://www.arfico.com/p/contact-us.html)** or WhatsApp **[+91 94728 52131](https://wa.me/919472852131)**
+📫 Reach me at **[arfico.com/contact](https://www.arfico.com/p/contact-us.html)**
 
 ---
 
