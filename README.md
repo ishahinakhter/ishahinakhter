@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🏢 Founded **[ARFICO Private Limited](https://www.arfico.com)** in 2019 — a multidisciplinary firm spanning Civil Engineering, IT Solutions, Digital Marketing & Business Consulting.
 
-🌐 Built and scaled several high-impact platforms including **[ProCivilEngineer.com](https://procivilengineer.com)**, **[WebDesignWala](https://webdesignwala.com)**, **[BPSC Mitra](https://bpscmitra.com)** and more — deployed across India with thousands of users.
+🌐 Built and scaled several high-impact platforms including **[WebDesignWala](https://webdesignwala.com)**, **[BPSC Mitra](https://bpscmitra.in)** and more — deployed across India with thousands of users.
 
 ✍️ Active content creator sharing engineering insights, tech tutorials & entrepreneurship lessons on YouTube **[@iShahinAkhter](https://youtube.com/@iShahinAkhter)**.
 
@@ -62,7 +62,7 @@ Leading web development, analytics, and digital strategy for one of Bihar's grow
 
 ---
 
-### 📈 SEO Manager — Pro Civil Engineer
+### 📈 SEO Manager
 ![](https://img.shields.io/badge/Mar%202017-Present%20·%209%2B%20yrs-0d9488?style=flat-square) &nbsp;![](https://img.shields.io/badge/Bihar%2C%20India-remote-blue?style=flat-square)
 
 - Leading a team of SEO managers, content writers, web designers & developers
@@ -91,8 +91,7 @@ Digital Marketing & Content Strategy Leader — driving growth through SEO, PPC 
 
 - 🏗️ **[ARFICO Private Limited](https://www.arfico.com)** — Civil, IT, Marketing & Consulting under one brand
 - 💻 **[WebDesignWala](https://webdesignwala.com)** — Co-founded digital marketing agency (est. 2018); SEO, web dev & brand strategy
-- 🧱 **[Pro Civil Engineer](https://procivilengineer.com)** — Engineering knowledge hub, guides & consultancy for civil professionals
-- 📚 **[BPSC Mitra](https://bpscmitra.com)** — Competitive exam prep platform for Bihar public service aspirants
+- 📚 **[BPSC Mitra](https://bpscmitra.in)** — Competitive exam prep platform for Bihar public service aspirants
 - 🪪 **[CardPedia](https://cardpedia.in)** — Digital visiting card & business identity platform for SMEs
 - 🌏 **[BiharOnePortal](https://www.arfico.com/p/biharoneportal.html)** — One-stop portal for Bihar-centric services & civic resources
 
